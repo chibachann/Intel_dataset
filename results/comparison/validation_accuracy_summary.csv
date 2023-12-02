@@ -1,0 +1,4 @@
+Model Name,Max Validation Accuracy
+ResNet18,0.9173333333333332
+ResNet34,0.919
+ResNet50,0.9173333333333332
